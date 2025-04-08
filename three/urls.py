@@ -5,6 +5,15 @@ from . import views
 urlpatterns =[
     path('register/',UserRegistrationView.as_view(),name='register'),
     path('login/',LoginView.as_view(),name='login'),
+ new
 ]
 
 good one
+
+
+
+
+
+    
+]
+main
